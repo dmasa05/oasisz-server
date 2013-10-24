@@ -3,7 +3,7 @@ oasisz-server
 
 For OasisZ Server Devs only
 
-Hello and Welcome to OasisZ Dev Center. You are currently in the Readme.txt
+Hello and Welcome to OasisZ Dev Center. You are currently in the Readme.md
 
 Current Plugins as of 10/24/13 (26 Total Plugins):
 
